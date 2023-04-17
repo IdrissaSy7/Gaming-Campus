@@ -454,6 +454,12 @@ footer a {
   height: 25px;
 }
 
+@media screen and (max-width: 1023px) {
+  .section1 {
+    background-attachment: scroll;
+  }
+}
+
 @media screen and (max-width: 767px) {
   header {
     display: none;
