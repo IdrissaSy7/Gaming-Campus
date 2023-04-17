@@ -196,6 +196,7 @@ nav ul li a:hover {
   justify-content: center;
   align-items: center;
   position: relative;
+  width: 33%;
 }
 
 .section3 button {
