@@ -498,6 +498,10 @@ footer a {
   }
   .section3content div {
     margin-bottom: 30px;
+    width: 100%;
+  }
+  .section3 button {
+    position: relative;
   }
   .section3content div img {
     width: auto;
