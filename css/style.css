@@ -195,6 +195,7 @@ nav ul li a:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  position: relative;
 }
 
 .section3 button {
@@ -203,6 +204,8 @@ nav ul li a:hover {
   font-size: 1rem;
   padding: 10px 40px;
   border: 1px solid white;
+  position: absolute;
+  bottom: 30px;
 }
 
 .section3 button:hover {
