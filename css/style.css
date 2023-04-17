@@ -460,6 +460,7 @@ footer a {
     margin-top: 0px;
     height: auto;
     padding-bottom: 50px;
+    background-attachment: scroll;
   }
   .section1 img {
     width: auto;
